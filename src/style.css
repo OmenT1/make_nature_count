@@ -357,9 +357,9 @@ h1 {
 
 .card {
     width: 472px;
-    height: 750px;
+    height: 250px;
     border-radius: 25px;
-    margin-top: 1%;
+    margin-top: 4%;
     left: 70%;
     position: absolute;
     background: #3aa854;
