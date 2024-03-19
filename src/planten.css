@@ -2,6 +2,39 @@
 .planten * {
   box-sizing: border-box;
 }
+
+ /* NAVBAR!! */
+  
+    /* Add a black background color to the top navigation */
+    .topnav {
+        background-color: #333333;
+        overflow: hidden;
+      }
+      
+      /* Style the links inside the navigation bar */
+      .topnav a {
+        float: left;
+        color: #cc0e0e;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      /* Change the color of links on hover */
+      .topnav a:hover {
+        background-color: #dddddd00;
+        color: rgb(24, 240, 136);
+      }
+      
+      /* Add a color to the active/current link */
+      .topnav a.active {
+        background-color: #dddddd00;
+        color: rgb(88, 3, 245);
+      }
+      /* hier stopt de navbar */
+
+
 .planten {
   background: #ffffff;
   height: 1673px;
