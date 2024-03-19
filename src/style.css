@@ -393,11 +393,11 @@ h1 {
 }
 
 .rectangle-2 {
-    background: #d9d9d900;
+    background: #d9d9d9;
     width: 330px;
     height: 300px;
     position: absolute;
-    left: 124px;
+    left: 200px;
     top: 125px;
 }
 .rectangle-3 {
@@ -405,7 +405,7 @@ h1 {
     width: 330px;
     height: 300px;
     position: absolute;
-    left: 555px;
+    left: 700px;
     top: 125px;
 }
 .rectangle-4 {
@@ -413,7 +413,7 @@ h1 {
     width: 330px;
     height: 300px;
     position: absolute;
-    left: 986px;
+    left: 1200px;
     top: 125px;
 }
 .drakenbloedboom-dracaena-een-makkelijke-kamerplant-die-met-weinig-licht-tevreden-is-en-dus-zelfs-bij-een-raam-op-het-noorden-kan-staan-laat-de-potgrond-tussen-twee-gietbeurten-altijd-uitdrogen-haalt-vooral-xyleen-formaldehyde-en-trichloorethyleen-uit-de-lucht {
@@ -423,7 +423,7 @@ h1 {
     font-size: 23px;
     font-weight: 400;
     position: absolute;
-    left: 126px;
+    left: 200px;
     top: 454px;
     width: 328px;
 }
@@ -431,7 +431,7 @@ h1 {
     width: 330px;
     height: 306.94px;
     position: absolute;
-    left: 124px;
+    left: 200px;
     top: 125px;
     object-fit: cover;
 }
@@ -442,7 +442,7 @@ h1 {
     font-size: 23px;
     font-weight: 400;
     position: absolute;
-    left: 557px;
+    left: 700px;
     top: 450px;
     width: 328px;
     height: 368px;
@@ -451,7 +451,7 @@ h1 {
     width: 330px;
     height: 300px;
     position: absolute;
-    left: 555px;
+    left: 700px;
     top: 125px;
     object-fit: cover;
 }
@@ -462,7 +462,7 @@ h1 {
     font-size: 23px;
     font-weight: 400;
     position: absolute;
-    left: 992px;
+    left: 1200px;
     top: 457px;
     width: 339px;
 }
@@ -470,7 +470,7 @@ h1 {
     width: 330px;
     height: 300px;
     position: absolute;
-    left: 986px;
+    left: 1200px;
     top: 125px;
     object-fit: cover;
 }
